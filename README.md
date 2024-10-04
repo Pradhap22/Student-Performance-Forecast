@@ -1,5 +1,5 @@
 # Student-Performance-Forecast
-The Student Performance Prediction Model aims to predict students' academic performance based on features like attendance, study habits, socio-economic factors, and personal information. This model helps identify students who may need additional support to improve their grades
+The Student Performance Forecast Model aims to predict students' academic performance based on features like attendance, study habits, socio-economic factors, and personal information. This model helps identify students who may need additional support to improve their grades
 
 1. Project Overview
 The Student Performance Prediction Model is a machine learning initiative designed to forecast students' academic outcomes based on various influencing factors. The primary goal is to enable educators and institutions to identify students who may be at risk of underperforming and to implement targeted interventions to enhance their academic success.
